@@ -1,4 +1,4 @@
-URL: https://git.heroku.com/contacts-firebase.git
+URL: https://contacts-firebase.herokuapp.com/
 
 ![contacts](https://user-images.githubusercontent.com/75949382/123672017-8fb1bd80-d847-11eb-8e3c-50985597ea88.gif)
 
